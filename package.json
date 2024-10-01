@@ -1,5 +1,5 @@
 {
-  "name": "DEADPOOL-MD",
+  "name": "FEITH-XXX",
   "description": "A Simple WhatsApp Bot",
   "version": "1.8.0",
   "main": "index.js",
@@ -12,7 +12,7 @@
    "termux",
    "whatsapp",
    "MD",
-   "DEADPOOL-MD",
+   "FEITH-MD",
    "WhatsApp-MD",
    "baileys-md",
    "wa-bot",
@@ -93,10 +93,10 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/Confronter/DEADPOOL-MD.git"
+  "url": "git+https://github.com/Confronter/FEITH-XXX.git"
  },
  "bugs": {
-  "url": "https://github.com/Confronter/DEADPOOL-MD/issues"
+  "url": "https://github.com/Confronter/FEITH-XXX/issues"
  },
- "homepage": "https://github.com/Confronter/DEADPOOL-MD#readme"
+ "homepage": "https://github.com/Confronter/FEITH-XXX#readme"
 }
