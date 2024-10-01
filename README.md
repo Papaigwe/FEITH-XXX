@@ -1,11 +1,11 @@
 # DEADPOOL-MD
 DEADPOOL-Md made by Frank best and easy whatsapp bot 🤖 with many features enjoy 😊 star ⭐️ repo
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DEADPOOL-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=FEITH-XXX+made+by+PAPA+IGWE;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">
-    <img alt=DEADPOOL-MD height="" src="https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg">
+    <img alt=FEITH-MD height="" src="https://i.imgur.com/CkP5evG.mp4">
    
 </a> 
     
@@ -14,7 +14,7 @@ DEADPOOL-Md made by Frank best and easy whatsapp bot 🤖 with many features enj
 <a 
 
 ####  
-Phoenix-MD Multi Device Whatsapp Bot.
+FEITH-MD Multi Device Whatsapp Bot.
 ## <sub>[External Plugins](https://github.com/AbhishekSuresh2/External-Plugins)</sub>
 
 ***
@@ -23,10 +23,10 @@ Phoenix-MD Multi Device Whatsapp Bot.
 
 Fork The Repo
     <br>
-<a href="https://github.com/Confronter/Trapster-MD/fork"><img title="TRAPSTER-MD" src="https://img.shields.io/badge/FORK Trapster MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/papaigwe/FEITH-XXX/fork"><img title="FEITH-MD" src="https://img.shields.io/badge/FORK Trapster MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 #### Session ID
-[Deadpool Pairing](https://replit.com/@confrontermfisa/Deadpool-pairing?s=app)
+[feith Pairing](https://igwe-session-id.onrender.com?s=app)
 <a href="https://phoenix-md-sessionid-0b60ee6f3386.herokuapp.com/"><img title="Phoenix-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
 
 ### DEADPOOL-MD Deploy Method
@@ -42,7 +42,7 @@ Fork The Repo
 
 ### Deploy Heroku 
 
-<a href="https://heroku.com/deploy?template=https://github.com/Confronter/Trapster-MD/"><img title="Trapster-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=red&style=for-the-badge&logo=heroku"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Confronter/Trapster-MD/"><img title="FEITH-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=red&style=for-the-badge&logo=heroku"></a>
 
 ### Heroku Tutorial
 
