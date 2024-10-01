@@ -1,7 +1,7 @@
 # FEITH-XXX
 feith-Md made by Frank best and easy whatsapp bot 🤖 with many features enjoy 😊 star ⭐️ repo
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=FEITH-XXX+made+by+PAPA+IGWE;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=FEITH-XXX+made+by+PAPA+IGWE;Follow+me+IG+%40cIGWE TECH._" alt="Typing SVG" /></a>
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">
@@ -23,11 +23,11 @@ FEITH-MD Multi Device Whatsapp Bot.
 
 Fork The Repo
     <br>
-<a href="https://github.com/papaigwe/FEITH-XXX/fork"><img title="FEITH-MD" src="https://img.shields.io/badge/FORK Trapster MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/papaigwe/FEITH-XXX/fork"><img title="FEITH-MD" src="https://img.shields.io/badge/FORK FEITH MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 #### Session ID
 [feith Pairing](https://igwe-session-id.onrender.com?s=app)
-<a href="https://phoenix-md-sessionid-0b60ee6f3386.herokuapp.com/"><img title="Phoenix-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="https://phoenix-md-sessionid-0b60ee6f3386.herokuapp.com/"><img title="FEITH-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
 
 ### DEADPOOL-MD Deploy Method
 
