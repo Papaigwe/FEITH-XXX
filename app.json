@@ -1,10 +1,10 @@
 {
-  "name": "DEADPOOL-MD",
+  "name": "FEITH-XXX",
   "version": "1.0.0",
-  "description": "DEADPOOL-MD Simple WhatsApp Bot",
-  "logo": "https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg",
-  "keywords": ["whatsapp", "bot", "md", "multi-device", "DEADPOOL", "DEADPOOL-MD", "wabot", "termux-bot", "sc-bot", "plugins", "Confronter", "Whatsapp-bot-md"],
-  "repository": "https://github.com/Confronter/DEADPOOL-MD",
+  "description": "FEITH-XXX Simple WhatsApp Bot",
+  "logo": "https://i.imgur.com/dXqPHjX.jpeg",
+  "keywords": ["whatsapp", "bot", "md", "multi-device", "DEADPOOL", "FEITH-XXX", "wabot", "termux-bot", "sc-bot", "plugins", "Confronter", "Whatsapp-bot-md"],
+  "repository": "https://github.com/Confronter/FEITH-XXX",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -19,7 +19,7 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": false,
-      "value": "254....."
+      "value": "241....."
     },
     "SPAM_COUNT": {
       "description": "Enter Number Of Times To Send Spam Message Using .spam Command",
@@ -29,27 +29,27 @@
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
       "required": false,
-      "value": "DEADPOOL MD☘️"
+      "value": "THANKS IGWETECH☘️"
     },
     "AUDIO_DATA": {
       "description": "Enter Your Audio Data",
       "required": false,
-      "value": "DEADPOOL-MD;FRANK;https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg"
+      "value": "FEITH-XXX;FRANK;https://i.imgur.com/dXqPHjX.jpeg"
     },
     "OWNER_NAME": {
       "description": "Enter Your Owner Name",
       "required": false,
-      "value": "Frank"
+      "value": "igwe"
     },
     "OWNER_NUMBER": {
       "description": "Enter Your Owner Number",
       "required": false,
-      "value": "254796283064"
+      "value": "24160338758"
     },
     "BOT_NAME": {
       "description": "Enter Your Bot Name",
       "required": false,
-      "value": "DEADPOOL-MD"
+      "value": "FEITH-XXX"
     },
     "MODE": {
       "description": "Enter Your Mode Type public For Public Otherwise Type private",
